@@ -25,7 +25,9 @@ The Nike Sales Power BI Dashboard aims to provide a comprehensive analysis of Ni
 
 ## Dashboard Overview
 Insights Dashboard: https://github.com/Adarsh2701/Nike-Sales-Power-BI-Dashboard/blob/main/Insights.png
+
 Performance Dashboard: https://github.com/Adarsh2701/Nike-Sales-Power-BI-Dashboard/blob/main/Performance.png
+
 overview Dashboard: https://github.com/Adarsh2701/Nike-Sales-Power-BI-Dashboard/blob/main/overview.png
 
 The dashboard includes the following key components:
